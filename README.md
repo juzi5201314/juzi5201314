@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, friends
 
-<!--
-**juzi5201314/juzi5201314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![tg](https://img.shields.io/badge/Telegram-@orange__soeur-00BFFF?style=flat-square&logo=telegram)](https://t.me/orange_soeur)
+[![gmail](https://img.shields.io/badge/Gmail-juzi201314-DC143C?style=flat-square&logo=gmail)](mailto:juzi201314@gmail.com)
 
-Here are some ideas to get you started:
+I am from China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Speak Chinese and Cantonese. English is very poor. (actually I need google to translate this text. hh)
+
+
+
+> my domains:  
+>
+> gugugu.dev  
+> gugu.ge  
+> qe.rs
