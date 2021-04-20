@@ -13,8 +13,4 @@ Speak Chinese and Cantonese. English is very poor. (actually I need google to tr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzi5201314)](https://github.com/anuraghazra/github-readme-stats)
 
-> my domains:  
->
-> gugugu.dev  
-> gugu.ge  
-> qe.rs
+[About Me](https://soeur.dev)
