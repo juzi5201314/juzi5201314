@@ -11,6 +11,6 @@ Speak Chinese and Cantonese. English is very poor. (actually I need google to tr
 
 [![current year commits](https://github-readme-stats.vercel.app/api?username=juzi5201314&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzi5201314)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzi5201314&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [About Me](https://soeur.dev/about)
