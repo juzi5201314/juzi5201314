@@ -14,5 +14,4 @@ Speak Chinese and Cantonese. English is very poor. (actually I need google to tr
 
 ![](https://github.com/juzi5201314/stats/raw/master/generated/languages.svg)
 
-
-[About Me](https://soeur.dev/about)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/juzi5201314/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
