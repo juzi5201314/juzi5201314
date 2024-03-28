@@ -41,7 +41,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>500
+          #plugin_notable_filter: stars:>500
           plugin_notable_from: all
           plugin_notable_types: commit,pull_request
           plugin_traffic: yes
